@@ -1,4 +1,4 @@
-### Olá, eu sou Kaique! 
+### Hello, I'm Kaique! 
 
 <div align="left">
   <a href="#">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkaikovsky&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
-### Tecnologias:
+### Technologies:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
